@@ -3,6 +3,8 @@
     "email": "Put your email here",
     "password": "Put password here",
     "auth": "microsoft",
+
+    "leavedelay": 7500,
     "webhook": null,
     "whitelist": []
 }
